@@ -57,7 +57,7 @@
 %    Availability: https://www.mathworks.com/matlabcentral/fileexchange/34767-a-suite-of-minimal-bounding-objects
 
 %% Main Function
-function [numA,numB]=count_lego(I)
+function [numA,numB]=lego_count(I)
 
 close all;
 figure(1), imagesc(I);
