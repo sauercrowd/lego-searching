@@ -10,7 +10,7 @@ To initialize the code:
 
 PROCEDURE:
 
-1) Download image as I=imread('filename') and invoke count_lego(I) function
+1) Download image as I=imread('filename') and invoke lego_count(I) function
 2) Use K-Means Clustering to segment the image into different colors
 3) Determine which clusters contain blue and red colors
 4) Select blue and red clusters containing the most number of blue and red elements, respectively
