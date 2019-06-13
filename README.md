@@ -2,7 +2,10 @@
 
 The code was made in MATLAB to count the number of blue rectangles (numA) and number of red squares (numB) on training images.
 
-To initialize the code, download the repository lego-searching, open initialize.m and run the code in MATLAB.
+To initialize the code:
+1) Download the repository lego-searching
+2) Open initialize.m in MATLAB and select which training image to process, i.e. train__.jpg
+3) Run the script
 
 
 PROCEDURE:
